@@ -1,4 +1,4 @@
-<div style="align:center">
+<div align="center">
   <h1>Yelp Open Dataset</h1>
 <p>An all-purpose dataset for learning
 </p>
