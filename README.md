@@ -1,4 +1,6 @@
-
+<h1>Yelp Open Dataset</h1>
+<p>An all-purpose dataset for learning
+</p>
 <img src="https://s3-media0.fl.yelpcdn.com/assets/public/960x225_dataset.yji-04eb5a6d4caf0ee710b34bbb37d3f4cf.png" />
 
 
